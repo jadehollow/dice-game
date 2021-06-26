@@ -12,11 +12,18 @@ body {
 }
 
 h1 {
-  margin: 30px;
+  margin: 1.875rem;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
   font-size: calc(4rem + 4vw);
   color: #4ECCA3;
+}
+
+h4 {
+  margin-top: 1.875rem;
+  font-family: 'Indie Flower', cursive;
+  font-size: calc(1rem + 0.5vw);
+  color: #EEEEEE;
 }
 
 p {
